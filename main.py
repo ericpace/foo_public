@@ -2,4 +2,8 @@ print('hello world')
 
 
 def new_feature():
-    print('hello from new feature with change')
+    print('hello from first feature with change')
+
+
+def new_feature_b():
+    pass
